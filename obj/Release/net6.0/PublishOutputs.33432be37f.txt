@@ -1,0 +1,11 @@
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\webapi2.exe
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\webapi2.dll
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\webapi2.deps.json
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\webapi2.runtimeconfig.json
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\webapi2.pdb
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wuxiaojie\source\repos\webapi2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

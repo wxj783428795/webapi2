@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2022-02-09T01:47:53.6378515Z;True|2022-02-09T09:44:17.3163039+08:00;True|2022-02-08T23:10:55.1059720+08:00;True|2022-02-08T23:05:09.6959699+08:00;False|2022-02-08T22:08:15.0267624+08:00;</History>
+    <_PublishTargetUrl>C:\Users\wuxiaojie\source\repos\webapi2\bin\Release\net6.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
